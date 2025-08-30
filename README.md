@@ -1,6 +1,12 @@
 # 👋 Oi eu sou a Mario Leme, gosto muito de  programação e tecnologia!
 
-Bem-vindo(a) ao meu perfil no GitHub! 🚀  
+Bem-vindo(a) ao meu perfil no GitHub! 🚀 
+
+---
+
+<p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
 ---
 
